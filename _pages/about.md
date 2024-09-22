@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About me"
+<font color = pink> title: "welcome to my page!"</font>
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Education 
 ======
