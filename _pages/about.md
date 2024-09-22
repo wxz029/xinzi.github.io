@@ -44,5 +44,5 @@ Publications
 
 4. **Xinzi Wang**, Kejia Wang, Jiamu Ding, Xinqi Chen, Yi Li, Wenlong Zhang. (2021). Predicting Water Quality during Urbanization based on a Causality-based Input Variable Selection Method Modified Back-Propagation Neural Network. Environmental Science and Pollution Research, 28, 960-973. [https://doi.org/10.1007/s11356-020-10514-8](https://doi.org/10.1007/s11356-020-10514-8)
 
-Click here to learn more: [Xinzi Wang's Curriculum Vitae](https://github.com/wxz029/xinzi.github.io/assets/CV.pdf)
+Click here to learn more: [Xinzi Wang's Curriculum Vitae](wxz029/xinzi.github.io/assets/CV.pdf)
 
