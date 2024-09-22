@@ -11,9 +11,9 @@ Education
 ======
 Hohai University(https://en.hhu.edu.cn/main.psp)
 
-_Sep 2021 - Jun 2024_
-
 Master of Engineering in Environmental Science and Engineering, Hohai University
+
+_Sep 2021 - Jun 2024_
 
 GPA: 88.73/100
 
