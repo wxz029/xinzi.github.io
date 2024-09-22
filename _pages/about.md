@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-
-
 Education 
 ======
 [Hohai University](https://en.hhu.edu.cn/main.psp)
@@ -35,6 +32,9 @@ Research interest
 ======
 Sustainability transitions, environmental economics, industrial ecology, natural capital accounting, input-output analysis
 
+Research Description
+======
+My previous research focuses on environmental impacts of human activities. Through a range of projects, I have explored the causal relationship between urban development and water quality, and investigated how the widely used antidepressant sertraline affects nitrogen transformation in rivers, and analyzed the impact of government policy changes on China's economic development and resource utilization. I am eager to work in a diverse and multi-disciplinary research environment. Hopefully, in future research, I can focus on system-scale environmental sustainability analysis and advance more effective strategies for regulating environmental hazards. 
 
 Publications 
 ======
