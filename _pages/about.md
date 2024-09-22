@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Education 
 ======
 [Hohai University](https://en.hhu.edu.cn/main.psp)
