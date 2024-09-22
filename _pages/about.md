@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<font color=	#20B2AA size=6>Welcome to my page! </font>
+
 
 Education 
 ======
