@@ -9,14 +9,14 @@ redirect_from:
 
 Education 
 ======
-Hohai University(https://en.hhu.edu.cn/main.psp)<bar>
-Sep 2021 - Jun 2024<bar>
+Hohai University(https://en.hhu.edu.cn/main.psp)\<bar>
+Sep 2021 - Jun 2024\<bar>
 Master of Engineering in Environmental Science and Engineering, Hohai University<bar>
-GPA: 88.73/100<bar>
-Hohai University<bar>
-Sep 2017 - Jun 2021<bar>
+GPA: 88.73/100\<bar>
+Hohai University\<bar>
+Sep 2017 - Jun 2021\<bar>
 Bachelor of Engineering in Environmental science<bar>
-GPA: 88.98/100<bar>
+GPA: 88.98/100\<bar>
 
 
 Research interest 
@@ -24,7 +24,7 @@ Research interest
 Sustainability transitions, environmental economics, industrial ecology, natural capital accounting, input-output analysis
 
 
-Research Description
+Publications 
 ======
 1. `Xinzi Wang`, Wenlong Zhang, Yi Li, Jiaxin Tong, Feng Yu, Quanliang Ye. (2023). Impacts of Water Constraints on Economic Outputs and Trade: A Multi-regional Input-Output Analysis in China. Journal of Cleaner Production, 434,140345. https://doi.org/10.1016/j.jclepro.2023.140345.
 
