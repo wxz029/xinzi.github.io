@@ -1,6 +1,6 @@
 ---
 permalink: /
-<font color = pink> title: "welcome to my page!"</font>
+
 author_profile: true
 redirect_from: 
   - /about/
