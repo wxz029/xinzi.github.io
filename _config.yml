@@ -21,15 +21,16 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_image.png"
+  name             : "Xinzi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hohai University"
+  location         : "China Jiangsu"
   uri              : # URL
-  email            : "none@example.org" 
-
+  email            : "xinziwang0129@hhu.edu.cn" 
+  
+ [Curriculum Vitae](../assets/Xinzi Wang_CV_ 211")
+ 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
