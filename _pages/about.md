@@ -9,14 +9,21 @@ redirect_from:
 
 Education 
 ======
-Hohai University(https://en.hhu.edu.cn/main.psp)\<bar>
-Sep 2021 - Jun 2024\<bar>
-Master of Engineering in Environmental Science and Engineering, Hohai University<bar>
-GPA: 88.73/100\<bar>
-Hohai University\<bar>
-Sep 2017 - Jun 2021\<bar>
-Bachelor of Engineering in Environmental science<bar>
-GPA: 88.98/100\<bar>
+Hohai University(https://en.hhu.edu.cn/main.psp)
+
+Sep 2021 - Jun 2024
+
+Master of Engineering in Environmental Science and Engineering, Hohai University
+
+GPA: 88.73/100
+
+Hohai University
+
+Sep 2017 - Jun 2021
+
+Bachelor of Engineering in Environmental science
+
+GPA: 88.98/100
 
 
 Research interest 
