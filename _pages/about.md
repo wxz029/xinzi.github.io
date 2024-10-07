@@ -35,13 +35,13 @@ Sustainability transitions, environmental economics, industrial ecology, natural
 
 Research Description
 ======
-+ **Previous research:** The research I have completed focused on environmental impacts of human activities. 
+**Previous research:** The research I have completed focused on environmental impacts of human activities. 
 
   + **Regional development & Environment**: I have explored the causal relationship between urban development and water quality, and analyzed the impact of government policy changes on China's economic development and resource utilization.
 
   + **Drugs & Environment:** I also investigated how the widely used antidepressant sertraline affects nitrogen transformation in rivers.
   
-+ **Future plan:** I am eager to work in a diverse and multi-disciplinary research environment. Hopefully, in future research, I can focus on system-scale environmental sustainability analysis and advance more effective strategies for regulating environmental hazards. 
+**Future plan:** I am eager to work in a diverse and multi-disciplinary research environment. Hopefully, in future research, I can focus on system-scale environmental sustainability analysis and advance more effective strategies for regulating environmental hazards. 
 
 Publications 
 ======
