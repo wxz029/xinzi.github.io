@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-A junior researcher who's really optimistic, always jumping in with new ideas, super hardworking, and excited to dive into any fun and meaningful research!
+A growing junior researcher who's really optimistic, always jumping in with new ideas, super hardworking, and excited to dive into any fun and meaningful research!
+
 
 Education 
 ======
