@@ -37,7 +37,7 @@ Research Description
 ======
 My previous research focuses on environmental impacts of human activities. 
 
-+ **Regional development & Environment**: I have explored the causal relationship between urban development and water quality, and analyzed the impact of government policy changes on China's economic development and resource utilization.
+> **Regional development & Environment**: I have explored the causal relationship between urban development and water quality, and analyzed the impact of government policy changes on China's economic development and resource utilization.
 
 + **Drugs & Environment:** I also investigated how the widely used antidepressant sertraline affects nitrogen transformation in rivers.
   
