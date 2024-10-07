@@ -39,7 +39,7 @@ My previous research focuses on environmental impacts of human activities. Throu
 
 Publications 
 ======
-<img src=https://ars.els-cdn.com/content/image/1-s2.0-S0959652623045031-ga1_lrg.jpg />
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0959652623045031-ga1_lrg.jpg" />
 
 1. **Xinzi Wang**, Wenlong Zhang, Yi Li, Jiaxin Tong, Feng Yu, Quanliang Ye. (2023). Impacts of Water Constraints on Economic Outputs and Trade: A Multi-regional Input-Output Analysis in China. Journal of Cleaner Production, 434,140345. [https://doi.org/10.1016/j.jclepro.2023.140345](https://doi.org/10.1016/j.jclepro.2023.140345)
 
