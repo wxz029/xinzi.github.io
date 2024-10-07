@@ -39,6 +39,8 @@ My previous research focuses on environmental impacts of human activities. Throu
 
 Publications 
 ======
+<img src=https://ars.els-cdn.com/content/image/1-s2.0-S0959652623045031-ga1_lrg.jpg />
+
 1. **Xinzi Wang**, Wenlong Zhang, Yi Li, Jiaxin Tong, Feng Yu, Quanliang Ye. (2023). Impacts of Water Constraints on Economic Outputs and Trade: A Multi-regional Input-Output Analysis in China. Journal of Cleaner Production, 434,140345. [https://doi.org/10.1016/j.jclepro.2023.140345](https://doi.org/10.1016/j.jclepro.2023.140345)
 
 2. Yi Li, Xinqi Chen, **Xinzi Wang**, Jiahui Shang, Lihua Niu, Longfei Wang, Huanjun Zhang, Wenlong Zhang. (2022). The Effects of Paroxetine on Benthic Microbial Food Web and Nitrogen Transformation in River Sediments. International Journal of Environmental Research and Public Health, 19(21), 14602. [https://doi.org/10.3390/ijerph192114602](https://doi.org/10.3390/ijerph192114602)
