@@ -35,7 +35,7 @@ Sustainability transitions, environmental economics, industrial ecology, natural
 
 Research Description
 ======
-+ **Previous research:** My research focused on environmental impacts of human activities. 
++ **Previous research:** My completed research focused on environmental impacts of human activities. 
 
   + **Regional development & Environment**: I have explored the causal relationship between urban development and water quality, and analyzed the impact of government policy changes on China's economic development and resource utilization.
 
