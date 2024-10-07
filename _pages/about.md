@@ -41,7 +41,7 @@ Publications
 ======
 
 <img src="https://wxz029.github.io/xinzi.github.io/AB1.png">
-
+<image src ="https://github.com/wxz029/xinzi.github.io/blob/4d5e09257d230b705c690c6e0e0de75aa5f5c03a/images/AB1.png">
 
 1. **Xinzi Wang**, Wenlong Zhang, Yi Li, Jiaxin Tong, Feng Yu, Quanliang Ye. (2023). Impacts of Water Constraints on Economic Outputs and Trade: A Multi-regional Input-Output Analysis in China. Journal of Cleaner Production, 434,140345. [https://doi.org/10.1016/j.jclepro.2023.140345](https://doi.org/10.1016/j.jclepro.2023.140345)
 
