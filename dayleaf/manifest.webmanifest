@@ -1,0 +1,14 @@
+{
+  "name": "日页计划 · Dayleaf",
+  "short_name": "日页",
+  "description": "完成今天的小事，种下属于你的森林。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#17493e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
